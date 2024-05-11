@@ -31,7 +31,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Khawla-Ben&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Khawla-Ben1&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="" alt="Khawla-Ben1" src="https://github-readme-streak-stats.herokuapp.com/?user=Khawla-Ben1&theme=dark&hide_border=false" /> 
 </td>
